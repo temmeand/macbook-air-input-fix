@@ -15,7 +15,9 @@ its troubles, and the technical exploration of a MacBook Air's input system.
 
 Notes:
 
-Tell story of how I got laptop
+- Excuse typos
+  - MIT story of Ramesh's signatue
+- Tell story of how I got laptop
 
 ---
 
@@ -50,6 +52,7 @@ GPS that we thouht was sw for sure
 3. SMC
 4. PRAM/NVRAM
 5. Disk Encryption
+6. Re-install macOS
 
 Notes:
 
@@ -58,7 +61,7 @@ Notes:
 
 ---
 
-## 🍰
+## System Layers 🍰
 
 Notes:
 
@@ -165,9 +168,70 @@ Notes:
 
 ## Where Does That Leave Me?
 
+| Level | Status |
+| -- | -- | 
 | UEFI | ✅ |
 | macOS | ❌ |
 
 Notes:
 
 - Back to HW or SW
+
+---
+
+## We interrupt this broadcast...
+
+What's the cost?
+
+⌛️ 💰 📉 📚
+
+Notes:
+
+- time, money, and future productivity
+- not receiving macOS upgrades
+
+---
+
+## Back to the Inter-webs
+
+---
+
+## Trackpad Cable
+
+<img class="r-stretch" src="images/trackpad-cable.jpeg">
+
+Notes:
+
+- Risk selection
+- Low cost
+
+---
+
+## More Studying
+
+<img class="r-stretch" src="images/with-battery.jpg">
+
+Notes:
+
+- Time with son to learn
+- iFixit image
+
+---
+
+<img class="r-stretch" src="images/trackpad-exposed.jpg">
+
+Note:
+
+- iFixIt image
+
+---
+
+<img src="images/hrs-connector.jpg" style="max-height: 50%">
+
+Notes:
+
+- Recognize the connector & Hirose
+
+---
+
+<img class="r-stretch" src="images/bad-cable.jpg"  style="max-height: 50%">
