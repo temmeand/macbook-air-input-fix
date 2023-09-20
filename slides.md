@@ -15,3 +15,24 @@ its troubles, and the technical exploration of a MacBook Air's input system.
 
 - Appreciate SPI buses
 - Troubleshoot hardware
+
+---
+
+## Stolen Goods
+
+---
+
+## HW or SW
+
+Notes:
+
+GPS that we thouht was sw for sure
+
+---
+
+1. Read
+2. Find Possible Causes
+3. Rank by Impact
+4. Backup
+5. Attempt to Fix
+ 
