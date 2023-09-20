@@ -259,6 +259,7 @@ Why SPI?
 Notes:
 
 - Thought I was suppose to be finding answers
+
 ---
 
 <img class="r-stretch" src="images/spi.png">
