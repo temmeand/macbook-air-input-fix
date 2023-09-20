@@ -13,6 +13,8 @@ its troubles, and the technical exploration of a MacBook Air's input system.
 
 ## Stolen Goods
 
+Bought laptop after it was returned to friend
+
 Notes:
 
 - Excuse typos
