@@ -226,7 +226,7 @@ Note:
 
 ---
 
-<img src="images/hrs-connector.jpg" style="max-height: 50%">
+<img src="images/hrs-connector.jpg" style="max-height: 30%">
 
 Notes:
 
@@ -234,4 +234,4 @@ Notes:
 
 ---
 
-<img class="r-stretch" src="images/bad-cable.jpg"  style="max-height: 50%">
+<img src="images/bad-cable.jpg"  style="max-height: 40%">
