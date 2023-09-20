@@ -4,7 +4,7 @@
 
 20 September 2023
 
-<img src="images/MacBook_Air_Mid_2012.png" style="max-height: 10%">
+<img src="images/MacBook_Air_Mid_2012.png" style="padding: 10px; max-height: 20%; max-width: 30%;">
 
 How I came to own a stolen laptop,
 its troubles, and the technical exploration of a MacBook Air's input system.
