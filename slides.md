@@ -1,10 +1,10 @@
-# What To Do with a Stolen Laptop
+## What To Do with a Stolen Laptop
 
 **Andrew Temme**
 
 20 September 2023
 
-<img src="images/MacBook_Air_Mid_2012.png" style="max-height: 25%">
+<img src="images/MacBook_Air_Mid_2012.png" style="max-height: 10%">
 
 How I came to own a stolen laptop,
 its troubles, and the technical exploration of a MacBook Air's input system.
