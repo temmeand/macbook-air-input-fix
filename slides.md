@@ -1,8 +1,8 @@
 # What To Do with a Stolen Laptop
 
-Andrew Temme
+## Andrew Temme
 
----
+**20 September 2023**
 
 <img class="r-stretch" src="images/MacBook_Air_Mid_2012.png">
 
