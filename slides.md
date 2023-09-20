@@ -1,7 +1,17 @@
-## Title
+# What To Do with a Stolen Laptop
 
-And notes
+Andrew Temme
 
 ---
 
-## Next Slide
+<img src="images/MacBook_Air_Mid_2012.png">
+
+How I came to own a stolen laptop,
+its troubles, and the technical exploration of a MacBook Air's input system.
+
+---
+
+## Objectives
+
+- Appreciate SPI buses
+- Troubleshoot hardware
