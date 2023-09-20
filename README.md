@@ -19,3 +19,4 @@ its troubles, and the technical exploration of a MacBook Air's input system.
 - iFixIt
   - https://www.ifixit.com/products/macbook-air-13-mid-2013-2017-trackpad-cable
   - https://www.ifixit.com/Guide/MacBook+Air+13-Inch+Early+2017+Trackpad+Replacement/135948
+- [AN-1248 SPI Inteface Appliaton Note](https://www.analog.com/media/en/technical-documentation/application-notes/AN-1248.pdf) by Miguel Usach, Analog Device.

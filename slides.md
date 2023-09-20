@@ -235,3 +235,57 @@ Notes:
 ---
 
 <img src="images/bad-cable.jpg"  style="max-height: 40%">
+
+---
+
+## 2 Insights
+
+- SPI & USB
+- Corrosion
+
+---
+
+Remember, it was stolen
+
+---
+
+1. Can I fix it?
+2. Can I understand it?
+
+---
+
+Why SPI?
+
+Notes:
+
+- Thought I was suppose to be finding answers
+---
+
+<img class="r-stretch" src="images/spi.png">
+
+---
+
+## Why SPI
+
+- Speed/bandwidth
+- Power
+- Simple
+
+---
+
+## What's Next
+
+---
+
+- Appreciate SPI buses
+  - SPI makes Mac trackpads awesome
+- Improve understanding of Apple design
+  - Integratin of hardware and software drives performance
+- Troubleshoot hardware
+  - Hardware or Software
+
+<img src="images/Think-Different.jpg"  style="max-height: 30%">
+
+Notes:
+
+- Salute you
