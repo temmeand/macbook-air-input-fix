@@ -41,7 +41,7 @@ GPS that we thouht was sw for sure
 4. Backup
 5. Attempt to Fix
 
- ---
+---
 
 ## Simple -> Complex
 
@@ -50,6 +50,20 @@ GPS that we thouht was sw for sure
 3. SMC
 4. PRAM/NVRAM
 5. Disk Encryption
+
+Notes:
+
+- Apple eco system and system arch
+- Tell you that so I can tell you this
+
+---
+
+## 🍰
+
+Notes:
+
+- Layers
+- Understand arch to debug
 
 ---
 
@@ -67,7 +81,7 @@ Notes:
 
 ---
 
-## Security
+## 🔒 Security 🔒
 
 <img class="r-stretch" src="image/../images/702px-Apple_T2_APL1027.jpg">
 
@@ -87,13 +101,73 @@ Notes:
 
 ---
 
-[System Management Controller (SMC)]((https://support.apple.com/en-us/HT201295))
+System Management Controller ([SMC]((https://support.apple.com/en-us/HT201295)))
 manages power
 
-Nots:
+Notes:
 
+- **Important later because of batter issues**
 - Battery isn't charging
 - Mac isn't turning on
 - Fans are running fast
 - Mac laptop computer gets too warm
 - Built-in camera isn't working
+
+---
+
+<img class="r-stretch" src="images/2016-macbook-keyboard-diagram-smc.png">
+
+---
+
+## NVRAM (PRAM)
+
+Store system settings
+
+<img class="r-stretch" src="images/nvram-reset.png">
+
+Notes:
+
+- such as sound volume, display resolution, startup-disk selection, and time zone
+- [Reset NVRAM on your Mac](https://support.apple.com/en-us/HT204063)
+
+---
+
+## More Key Combinations
+
+| Key | Result |
+| -- | -- |
+| ⌘-R | Recovery mode |
+| ⌥-⌘-R | Internet recovery mode |
+| ⇧-⌥-⌘-R | Internet recovery mode |
+| ⌥-⌘-P-R | Reset NVRAM |
+| D | Diagnostics |
+| ⌘-V | Verbose mode |
+
+Notes:
+
+- [Startup key combntions](https://support.apple.com/en-us/102603)
+
+---
+
+## Boot Process
+
+- UEFI
+- macOS booter
+- kernel
+
+<img class="r-stretch" src="images/19fe07710756edf2d124290fc385d06b.png">
+
+Notes:
+
+- Unified Extensible Firmware Interface (UEFi)
+
+---
+
+## Where Does That Leave Me?
+
+| UEFI | ✅ |
+| macOS | ❌ |
+
+Notes:
+
+- Back to HW or SW
