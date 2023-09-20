@@ -1,10 +1,10 @@
 # What To Do with a Stolen Laptop
 
-## Andrew Temme
+**Andrew Temme**
 
-**20 September 2023**
+20 September 2023
 
-<img class="r-stretch" src="images/MacBook_Air_Mid_2012.png">
+<img src="images/MacBook_Air_Mid_2012.png" style="max-height: 25%">
 
 How I came to own a stolen laptop,
 its troubles, and the technical exploration of a MacBook Air's input system.
@@ -285,7 +285,7 @@ Notes:
 - Troubleshoot hardware
   - Hardware or Software
 
-<img src="images/Think-Different.jpg"  style="max-height: 30%">
+<img src="images/Think-Different.jpg" style="max-height: 30%">
 
 Notes:
 
